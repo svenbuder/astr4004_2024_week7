@@ -30,4 +30,4 @@ Welcome to the teaching repository for **Week 7** of the course **ASTR4004/8004 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/svenbuder/astr4004_2024_week7.git

@@ -15,6 +15,9 @@ Welcome to the teaching repository for **Week 7** of the course **ASTR4004/8004 
 - **3. Plot Clinic**:  
   In this notebook, we explore effective data visualization techniques.
 
+- **4. Extra: Commenting and Outsourcing Code**:  
+  In this notebook, I showcase how you can better comment (for your future self and others) with *#* and DocString as well as how to outsource code.
+
 ### Directories
 
 - **data/**:  
@@ -25,6 +28,11 @@ Welcome to the teaching repository for **Week 7** of the course **ASTR4004/8004 
 
 - **latex_input/**:  
   This directory contains LaTeX files for generating scientific reports and publications using the output from the notebooks.
+
+- **outsourced_code/**:  
+  This directory contains example python functions that were outsourced from a larger file. For more information check out the *7d_code_outsourcing.ipynb.
+
+
 
 ## How to Use
 
